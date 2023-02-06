@@ -1,10 +1,10 @@
 ![](crafter-background.png)
 
-CrafterCMS is a modern open source content management system. CrafterCMS is [composable](https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable), [headless+](https://www.gartner.com/en/documents/3970519), and doesn't dictate your technology choices.
+CrafterCMS is a modern open source content management system. CrafterCMS is [composable](https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable](https://craftercms.com/blog/2021/07/what-is-a-composable-dxp)), [headless+]([https://www.gartner.com/en/documents/3970519](https://craftercms.com/blog/2021/03/what-is-headless--the-next-phase-of-headless-cms-technology)), and provides freedom for your technology choices.
 
 CrafterCMS can run as a content server alongside your web or mobile application, and/or host templated web applications.
 
-CrafterCMS itself is built with Java and uses Groovy and FreeMarker as the controller and view layers respectively, however, CrafterCMS doesn't interfere with your technology choices. CrafterCMS ships an SDK on NPM that helps you wire in-context editing features ([Experience Builder](https://docs.craftercms.org/en/4.0/developers/experience-builder.html)) so you can wire that to your favorite front-end technology like React, Vue, Angular or anything else. If you're building your application pure headless, then nothing is needed, you can simply call CrafterCMS for content and search capabilities via the REST API.
+CrafterCMS itself is built in Java/Spring, and offers total flexibility on both the client side and server side. If you're building your application pure headless, you can simply call CrafterCMS for content and search capabilities via the REST or GraphQL APIs. For server-side development, Groovy and Javascript (for Node.js, Next.js, Nuxt.js, etc.) are natively supported (for extending our APIs, creating custom APIs, server-side rendering). For templated sites/apps, FreeMarker is included. CrafterCMS ships an SDK on NPM that helps you wire in-context editing features ([Experience Builder](https://docs.craftercms.org/en/4.0/developers/experience-builder.html)) so you can wire that to your favorite front-end technology like React, Vue, Angular or anything else, providing content authors with a visual editing experience for all your sites/apps.
 
 ## Learn More
 Start learn more about CrafterCMS:
