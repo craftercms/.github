@@ -1,6 +1,6 @@
 ![](crafter-background.png)
 
-CrafterCMS is a modern open source content management system. CrafterCMS is [composable](https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable](https://craftercms.com/blog/2021/07/what-is-a-composable-dxp)), [headless+]([https://www.gartner.com/en/documents/3970519](https://craftercms.com/blog/2021/03/what-is-headless--the-next-phase-of-headless-cms-technology)), and provides freedom for your technology choices.
+CrafterCMS is a modern open source content management system. CrafterCMS is [composable](https://craftercms.com/blog/2021/07/what-is-a-composable-dxp)), [headless+](https://craftercms.com/blog/2021/03/what-is-headless--the-next-phase-of-headless-cms-technology)), and provides freedom for your technology choices.
 
 CrafterCMS can run as a content server alongside your web or mobile application, and/or host templated web applications.
 
