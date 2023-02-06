@@ -11,6 +11,7 @@ Start learn more about CrafterCMS:
 * [Architecture](https://docs.craftercms.org/en/4.0/developers/architecture.html#architecture)
 * [Getting Started](https://docs.craftercms.org/en/4.0/getting-started/index.html)
 * [Download and Run](https://craftercms.org/downloads)
+* [Build from Source](https://github.com/craftercms/craftercms#readme)
 * [Ask Questions](https://craftercms.com/slack)
 
 ## Contributing
