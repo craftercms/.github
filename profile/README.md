@@ -8,7 +8,7 @@ Both the authoring and delivery systems of CrafterCMS are built in [Java/Spring]
 
 ## Learn More
 Start to learn more about CrafterCMS:
-* [Architecture](https://craftercms.com/docs/4.2/by-role/architect/index.html#general-architecture)
+* [Architecture](https://craftercms.com/docs/current/by-role/architect/index.html#general-architecture)
 * [Getting Started](https://craftercms.com/docs/current/getting-started/index.html)
 * [Download and Run](https://craftercms.com/download)
 * [Build from Source](https://github.com/craftercms/craftercms#readme)
